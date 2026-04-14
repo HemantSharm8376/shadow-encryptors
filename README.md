@@ -1,3 +1,6 @@
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Tech](https://img.shields.io/badge/AI-Cybersecurity-blue)
+![Hackathon](https://img.shields.io/badge/Hackathon-Project-orange)
 # shadow-encryptors
 AI-powered phishing detection system
 SHADOW ENCRYPTORS – AI Phishing Detection System
