@@ -19,6 +19,7 @@ We built an "AI-powered phishing detection system" that proactively scans:
 3.QR Codes 🔳
 4.URLs 🔗
 5.Files 📂
+6.Ip Info
 
 The system detects threats "before the user clicks" and provides real-time alerts.
 
@@ -68,10 +69,6 @@ Future Scope
 Team
 
 "Shadow Encryptors"
-
-1.Hemant Prakash
-2.Ananya Pandey
-3.Harsh Shukla
 
 ## 📌 Status
 
