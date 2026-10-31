@@ -70,6 +70,6 @@ Team
 
 "Shadow Encryptors"
 
-## 📌 Status
+📌 Status
 
 🚧 Prototype under development (Hackathon Project)
